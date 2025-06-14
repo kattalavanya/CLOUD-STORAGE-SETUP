@@ -21,3 +21,5 @@ DESCRIPTION OF THE TASK:I have completed the first task that is cloud storage-se
 ✅ Saves local device space
 
 ✅ Scales with your needs
+
+output:
