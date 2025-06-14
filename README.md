@@ -23,3 +23,5 @@ DESCRIPTION OF THE TASK:I have completed the first task that is cloud storage-se
 ✅ Scales with your needs
 
 output:
+
+![Image](https://github.com/user-attachments/assets/55b2b2be-0612-4c86-84ef-d1af4c92199e)
